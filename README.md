@@ -1,3 +1,6 @@
+# this project is modified about collapsable feature.
+
+# below is same document as valdio/react-native-scrollable-tabview
 
 ## react-native-scrollable-tabview
 
